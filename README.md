@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 💫 About Me:
 2025: Fundamental Bachelor’s Degree in Mathematics and Computer Science-specialization in Decision Informatics, at Hassan II University.
 Currently: Data and AI Engineering Student at EMSI
@@ -15,4 +14,3 @@ Currently: Data and AI Engineering Student at EMSI
 ![](https://github-readme-stats.vercel.app/api?username=HajarSmh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HajarSmh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HajarSmh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
