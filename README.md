@@ -1,8 +1,9 @@
 # Hi there 👋
 
 # 💫 About Me:
-2025: Fundamental Bachelor’s Degree in Mathematics and Computer Science-specialization in Decision Informatics, at Hassan II University.
-Currently: Data and AI Engineering Student at EMSI
+2025 : Fundamental Bachelor’s Degree in Mathematics and Computer Science-specialization in Decision Informatics, at Hassan II University.
+
+Currently : Data and AI Engineering Student at EMSI
 
 
 # 🌐 Socials:
