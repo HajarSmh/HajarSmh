@@ -2,6 +2,7 @@
 
 ## 💫 About Me:
 **Currently** : Data and AI Engineering Student at EMSI and M2 Applied Artificial Intelligence (Double Degree) at Université Côte d'Azur
+
 **2024-2025** : Fundamental Bachelor’s Degree in Mathematics and Computer Science-specialization in Decision Informatics, at Hassan II University.
 
 
