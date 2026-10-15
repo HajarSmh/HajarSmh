@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Hajar Samouh👋
 
 ## 💫 About Me:
 **Currently** : Data and AI Engineering Student at EMSI and M2 Applied Artificial Intelligence (Double Degree) at Université Côte d'Azur
